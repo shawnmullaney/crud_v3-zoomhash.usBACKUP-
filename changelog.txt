@@ -1,0 +1,6 @@
+changelog i guess...
+
+
+anyway, 
+I want to make a button so if a customer needs hashrate or miner info, we click the button and it generates and exports an database backup in excel format
+

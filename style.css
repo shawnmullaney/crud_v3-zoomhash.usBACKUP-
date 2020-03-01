@@ -1,0 +1,167 @@
+body {
+  padding: 30px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: #555555;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.container {
+  padding: 20px;
+  background-color: #efefef;
+  width: 1123px;
+  border-radius: 6px;
+}
+.container h3 a {
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: #00AE4D;
+  border-radius: 6px;
+  color: #FFFFFF;
+}
+
+.container h3 a:hover, .container table tr td button:hover {
+  background-color: #78F5AE;
+  color: #999999;
+}
+
+.container table {
+  width: 360px;
+}
+
+.container table tr td {
+  padding: 5px;
+}
+
+.container table tr td input {
+  border: solid 1px #dddddd;
+  padding: 5px 10px;
+  border-radius: 6px;
+  width: 100%;
+  color: #777777;
+}
+
+.container table tr td textarea {
+  border: solid 1px #dddddd;
+  padding: 5px 10px;
+  border-radius: 6px;
+  width: 100%;
+  color: #777777;
+}
+
+.container table tr td button {
+  border: solid 1px #AABF5C;
+  background-color: #00AE4D;
+  border-radius: 6px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  margin: 10px 0;
+  padding: 10px 20px;
+}
+
+.container form button {
+  border: solid 1px #CB2027;
+  background-color: #DD4B39;
+  border-radius: 6px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  margin: 10px 0;
+  padding: 10px 20px;
+}
+
+.container .list-table {
+  width: 360px;
+  border: solid 2px #DDDDDD;
+  border-spacing: 0;
+}
+
+.container .list-table th {
+  border-bottom: solid 2px #DDDDDD;
+}
+// ADDED THIS CHIT BELOW
+
+// ADDED ALL THIS OTHER DIV JUST FOR THE SHOW PAGE FOR INDIVIDUAL MINER REPOORTS
+
+
+.container2 {
+  padding: 20px;
+  background-color: #efefef;
+  width: 540px;
+//  border-radius: 6px;
+}
+.container2 h3 a {
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: #00AE4D;
+  border-radius: 6px;
+  color: #FFFFFF;
+}
+
+.container2 h3 a:hover, .container table tr td button:hover {
+  background-color: #78F5AE;
+  color: #999999;
+}
+
+.container2 table {
+  width: 450px;
+  border-collapse: collapse;
+}
+
+.container2 table tr td {
+  padding: 5px;
+}
+
+
+.container2 table tr td textarea {
+  border: solid 1px #dddddd;
+  padding: 5px 10px;
+  border-radius: 6px;
+  width: 100%;
+  color: #777777;
+}
+
+.container2 table tr td button {
+  border: solid 1px #AABF5C;
+  background-color: #00AE4D;
+  border-radius: 6px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  margin: 10px 0;
+  padding: 10px 20px;
+}
+
+.container2 form button {
+  border: solid 1px #CB2027;
+  background-color: #DD4B39;
+  border-radius: 6px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  margin: 10px 0;
+  padding: 10px 20px;
+}
+
+// ADDED THIS CHIT BELOW
+
+.container2 td, .container th {
+  //  border: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+  //  padding: 8px;
+}
+
+.container2 tr:nth-child(even){background-color: #f2f2f2;}
+
+.container2 tr:hover {background-color: #ddd;}
+
+.container2 th { //pretty green headers
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+
+.container2 tr {
+    border: 1px solid black;
+}
